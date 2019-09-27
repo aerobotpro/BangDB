@@ -1,13 +1,8 @@
-###
-###
-###
-###
-###
-###
-###
-###
-###
-
+### TODO:
+### Dual_Multiple Db Files Of the same name will be an issue, needs taggind.
+### NEEDS encryption!
+### Needs Variable Object-Argument Count Support.
+### Needs Default Placement based on platform.
 def run(db_name):
     new_db = False
     try:
